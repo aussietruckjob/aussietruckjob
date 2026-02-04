@@ -91,4 +91,48 @@
 
 <section>
   <div class="box">
-    <h2>Why Work in Australi
+    <h2>Why Work in Australia?</h2>
+    <ul>
+      <li>💰 Salary: AUD $35 – $60 per hour</li>
+      <li>🚛 HC / MC / HR Driver Demand</li>
+      <li>📄 Visa & Sponsorship Support</li>
+      <li>🏠 PR Pathway Available</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Apply on WhatsApp (Fast)</h2>
+    <a class="btn" href="https://wa.me/61400000000?text=Hi%20I%20want%20Australia%20Truck%20Driver%20Job" target="_blank">
+      📲 Chat on WhatsApp
+    </a>
+    <p style="font-size:14px;margin-top:8px;">
+      (Replace number with agent WhatsApp)
+    </p>
+  </div>
+
+  <div class="box">
+    <h2>Quick Application Form</h2>
+    <form>
+      <input type="text" placeholder="Full Name" required>
+      <input type="text" placeholder="Country" required>
+      <select required>
+        <option value="">Select License Type</option>
+        <option>HR</option>
+        <option>HC</option>
+        <option>MC</option>
+      </select>
+      <input type="tel" placeholder="WhatsApp Number" required>
+      <button type="submit">Submit Application</button>
+    </form>
+    <p style="font-size:13px;margin-top:10px;">
+      *Agent will contact you within 24 hours
+    </p>
+  </div>
+</section>
+
+<footer>
+  © 2026 Aussie Truck Jobs | All Rights Reserved
+</footer>
+
+</body>
+</html>
