@@ -133,6 +133,11 @@
 <footer>
   © 2026 Aussie Truck Jobs | All Rights Reserved
 </footer>
-
+<img 
+  src="https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+  alt="Australia Truck Driver"
+  style="width:100%;max-height:350px;object-fit:cover;">
+  <div style="height:20px;"></div>
+  
 </body>
 </html>
