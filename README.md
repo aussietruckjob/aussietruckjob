@@ -2,142 +2,193 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Australia Truck Driver Jobs</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Legal Movie Download & Watch Guide</title>
+  <meta name="description" content="Watch or download movies legally. Official OTT platforms only.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google AdSense code (approval ke baad yahan paste karna) -->
+
   <style>
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #0b0f19;
+      background: #111;
       color: #fff;
     }
     header {
-      background: linear-gradient(135deg, #ff9800, #ff5722);
-      padding: 30px 15px;
+      background: #e50914;
+      padding: 15px;
       text-align: center;
+      font-size: 24px;
+      font-weight: bold;
     }
-    header h1 {
-      margin: 0;
-      font-size: 28px;
+    .container {
+      padding: 15px;
     }
-    header p {
-      margin-top: 10px;
-      font-size: 16px;
+    .movie {
+      background: #1c1c1c;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 6px;
     }
-    section {
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    .box {
-      background: #151a2d;
-      padding: 20px;
-      border-radius: 12px;
-      margin-bottom: 20px;
-    }
-    .box h2 {
+    .movie h2 {
+      color: #ffcc00;
       margin-top: 0;
-      color: #ff9800;
-    }
-    ul {
-      padding-left: 20px;
     }
     .btn {
-      display: block;
-      width: 100%;
-      text-align: center;
-      background: #25d366;
-      color: #fff;
-      padding: 15px;
-      border-radius: 10px;
-      text-decoration: none;
-      font-size: 18px;
-      margin-top: 15px;
-      font-weight: bold;
-    }
-    form input, form select {
-      width: 100%;
-      padding: 12px;
+      display: inline-block;
       margin-top: 10px;
-      border-radius: 8px;
-      border: none;
-      font-size: 16px;
+      padding: 10px 15px;
+      background: #28a745;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
     }
-    form button {
-      margin-top: 15px;
-      width: 100%;
-      padding: 15px;
-      font-size: 18px;
-      border: none;
-      border-radius: 10px;
-      background: #ff9800;
-      color: #000;
-      font-weight: bold;
+    .btn:hover {
+      background: #218838;
     }
     footer {
-      text-align: center;
-      padding: 15px;
-      font-size: 14px;
+      background: #000;
       color: #aaa;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
     }
   </style>
 </head>
+
 <body>
 
 <header>
-  <h1>🇦🇺 Australia Truck Driver Jobs</h1>
-  <p>HC • MC • HR Drivers | Visa Support | High Pay</p>
+  🎬 Legal Movie Download Guide
 </header>
 
-<section>
-  <div class="box">
-    <h2>Why Work in Australia?</h2>
-    <ul>
-      <li>💰 Salary: AUD $35 – $60 per hour</li>
-      <li>🚛 HC / MC / HR Driver Demand</li>
-      <li>📄 Visa & Sponsorship Support</li>
-      <li>🏠 PR Pathway Available</li>
-    </ul>
-  </div>
+<div class="container">
 
-  <div class="box">
-    <h2>Apply on WhatsApp (Fast)</h2>
-    <a class="btn" href="https://wa.me/61400000000?text=Hi%20I%20want%20Australia%20Truck%20Driver%20Job" target="_blank">
-      📲 Chat on WhatsApp
+  <div class="movie">
+    <h2>Pushpa 2 – Full Movie</h2>
+    <p>
+      Language: Hindi / Telugu<br>
+      Category: Action / Drama<br><br>
+      Is movie ko legally watch ya download karne ke liye official platform use karein.
+    </p>
+    <a class="btn" href="https://www.amazon.in/primevideo" target="_blank">
+      Watch / Download on Amazon Prime
     </a>
-    <p style="font-size:14px;margin-top:8px;">
-      (Replace number with agent WhatsApp)
-    </p>
   </div>
 
-  <div class="box">
-    <h2>Quick Application Form</h2>
-    <form>
-      <input type="text" placeholder="Full Name" required>
-      <input type="text" placeholder="Country" required>
-      <select required>
-        <option value="">Select License Type</option>
-        <option>HR</option>
-        <option>HC</option>
-        <option>MC</option>
-      </select>
-      <input type="tel" placeholder="WhatsApp Number" required>
-      <button type="submit">Submit Application</button>
-    </form>
-    <p style="font-size:13px;margin-top:10px;">
-      *Agent will contact you within 24 hours
+  <div class="movie">
+    <h2>Jawan – Full Movie</h2>
+    <p>
+      Language: Hindi<br>
+      Category: Action / Thriller<br><br>
+      Legal streaming option niche diya gaya hai.
     </p>
+    <a class="btn" href="https://www.netflix.com" target="_blank">
+      Watch on Netflix
+    </a>
   </div>
-</section>
+
+</div>
 
 <footer>
-  © 2026 Aussie Truck Jobs | All Rights Reserved
+  © 2026 LegalMovieGuide<br>
+  Disclaimer: We do not host any movie files. All links go to official platforms.
 </footer>
-<img 
-  src="https://images.unsplash.com/photo-1503376780353-7e6692767b70"
-  alt="Australia Truck Driver"
-  style="width:100%;max-height:350px;object-fit:cover;">
-  <div style="height:20px;"></div>
-  
+
+</body>
+</html>
+
+
+  <!-- Google AdSense code (approval ke baad yahan paste karna) --
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #fff;
+    }
+    header {
+      background: #e50914;
+      padding: 15px;
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .container {
+      padding: 15px;
+    }
+    .movie {
+      background: #1c1c1c;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+    }
+    .movie h2 {
+      color: #ffcc00;
+      margin-top: 0;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background: #28a745;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    .btn:hover {
+      background: #218838;
+    }
+    footer {
+      background: #000;
+      color: #aaa;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  🎬 Legal Movie Download Guide
+</header>
+
+<div class="container">
+
+  <div class="movie">
+    <h2>Pushpa 2 – Full Movie</h2>
+    <p>
+      Language: Hindi / Telugu<br>
+      Category: Action / Drama<br><br>
+      Is movie ko legally watch ya download karne ke liye official platform use karein.
+    </p>
+    <a class="btn" href="https://www.amazon.in/primevideo" target="_blank">
+      Watch / Download on Amazon Prime
+    </a>
+  </div>
+
+  <div class="movie">
+    <h2>Jawan – Full Movie</h2>
+    <p>
+      Language: Hindi<br>
+      Category: Action / Thriller<br><br>
+      Legal streaming option niche diya gaya hai.
+    </p>
+    <a class="btn" href="https://www.netflix.com" target="_blank">
+      Watch on Netflix
+    </a>
+  </div>
+
+</div>
+
+<footer>
+  © 2026 LegalMovieGuide<br>
+  Disclaimer: We do not host any movie files. All links go to official platforms.
+</footer>
+
 </body>
 </html>
